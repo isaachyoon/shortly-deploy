@@ -1,0 +1,26 @@
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/student/.ssh/id_rsa.
+Your public key has been saved in /Users/student/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:lhAdZV+5Hhn63wjyA42+ApTqolTY2EPXzgWLe7nkwV8 student@HR6-15.local
+The key's randomart image is:
++---[RSA 2048]----+
+|      .o.oo   .. |
+|      o.+. . .o  |
+|   . o.+ .  .. + |
+|  * . B.o.  . +  |
+| o = + OS  E o . |
+|  . o =.+ = o o  |
+| . .   + o + . o.|
+|. . .   . . o . o|
+|.. .     ... .   |
++----[SHA256]-----+
+
+
+You can usually get this key by copying the results of:
+
+ cat ~/.ssh/id_rsa.pub
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDSGlZOlgL+hSOLAdoeiPef9tl745feys0i2JARFSylCA89C1Ncbyd0eMVZ3P8NxggF6LIs9pp6AYyRIu9wwm3R7xuJNxUOk5SHtUf89td91SdhS5P9uKccJn1KQH66BieYNFptTKy2x4sjxpkkws/2yTFjrX7z52DpiuWTM1REbWEqPHLpxTpAbCfxO+FWl85qNiT/4W0VJpjM0+aX9e7mfz1opiktrs4RP3fw4TPySHLMav4bLJXxhWlZcR/akHYFvCSv4X0TuMA3zbn2TR6l01X5VUbxMZh7ifIylyC9IY7koWZgOIbV933Vf5WcebOCgWYFNlFg2Hn7gu9UyCOp student@HR6-15.local
